@@ -1,7 +1,6 @@
 ![Header](./heading.svg)
 ![Owie Emmanuel Header](./header.png)
 
-# Hello, I'm Owie Emmanuel 🚀
 
 ### Software Engineer | PWA Architect | Security Researcher
 
@@ -51,5 +50,3 @@ I believe that software should be as beautiful as it is functional. My design la
 
 *"Building the future of the web, one secure PWA at a time."*
 
-
-feat: initial profile setup
