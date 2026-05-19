@@ -12,7 +12,7 @@
 
 <img src="./icons/user-circle.svg" width="18" height="18" align="left" /> **about**
 
-> privacy-first software. offline-first architecture. clean design that actually works.
+> builds offline-first software that actually works. privacy-forward by default, clean design by obsession. react/python/pwa - 16 and shipping since 2022.
 
 <br>
 
@@ -40,10 +40,10 @@
 
 | | project | stack |
 |---|---|---|
-| <img src="./icons/music-note.svg" width="18" height="18" /> | [**Waverr**](https://github.com/Owie6789/waverr-preview) â€” offline-first audio engine with 10-band EQ, spectrogram | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=2D2823) ![](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white&labelColor=2D2823) |
-| <img src="./icons/paragraph.svg" width="18" height="18" /> | [**textsplit**](https://github.com/Owie6789/textsplit) â€” zero-dep text split tool, 5 methods, 1M+ chars | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=2D2823) ![](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=2D2D2D&labelColor=2D2823) |
-| <img src="./icons/terminal.svg" width="18" height="18" /> | [**gsd-command-router**](https://github.com/Owie6789/gsd-command-router) â€” interactive CLI docs for 50+ GSD commands | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=2D2823) ![](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=2D2D2D&labelColor=2D2823) |
-| <img src="./icons/globe.svg" width="18" height="18" /> | [**bio**](https://github.com/Owie6789/bio) â€” retro-OS interactive portfolio, pixel art, virtual pet | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=2D2823) ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=2D2823) |
+| <img src="./icons/music-note.svg" width="18" height="18" /> | [**Waverr**](https://github.com/Owie6789/waverr-preview) - offline-first audio engine with 10-band EQ, spectrogram | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=2D2823) ![](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white&labelColor=2D2823) |
+| <img src="./icons/paragraph.svg" width="18" height="18" /> | [**textsplit**](https://github.com/Owie6789/textsplit) - zero-dep text split tool, 5 methods, 1M+ chars | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=2D2823) ![](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=2D2D2D&labelColor=2D2823) |
+| <img src="./icons/terminal.svg" width="18" height="18" /> | [**gsd-command-router**](https://github.com/Owie6789/gsd-command-router) - interactive CLI docs for 50+ GSD commands | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=2D2823) ![](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=2D2D2D&labelColor=2D2823) |
+| <img src="./icons/globe.svg" width="18" height="18" /> | [**bio**](https://github.com/Owie6789/bio) - retro-OS interactive portfolio, pixel art, virtual pet | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=2D2823) ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=2D2823) |
 
 <br>
 
@@ -51,10 +51,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Owie6789&show_icons=true&theme=transparent&title_color=E8A87C&text_color=EDE6D6&icon_color=E76F51&hide_border=true&border_radius=8&commits_year=2026" width="420" />
+    <img src="https://ghstats.dev/api?username=Owie6789&show_icons=true&theme=transparent&title_color=E8A87C&text_color=EDE6D6&icon_color=E76F51&hide_border=true&border_radius=8&commits_year=2026" width="420" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Owie6789&theme=dark&hide_border=true&border_radius=8&background=1C1917&ring=E8A87C&fire=F4A261&currStreakNum=E8A87C&sideNums=EDE6D6&currStreakLabel=E8A87C&sideLabels=EDE6D6&dates=8B7D7D&stroke=3D2C2C" width="420" />
+    <img src="https://streak-stats.demolab.com?user=Owie6789&theme=dark&hide_border=true&border_radius=8&background=1C1917&ring=E8A87C&fire=F4A261&currStreakNum=E8A87C&sideNums=EDE6D6&currStreakLabel=E8A87C&sideLabels=EDE6D6&dates=8B7D7D&stroke=3D2C2C" width="420" />
   </a>
 </p>
 
