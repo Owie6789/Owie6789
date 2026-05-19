@@ -12,7 +12,7 @@
 
 <img src="./icons/user-circle.svg" width="18" height="18" align="left" /> **about**
 
-> builds offline-first software that actually works. privacy-forward by default, clean design by obsession. react/python/pwa - 16 and shipping since 2022.
+> privacy-first software. offline-first architecture. clean design that actually works.
 
 <br>
 
