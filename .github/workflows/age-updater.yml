@@ -13,39 +13,24 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update README with correct age
+      - name: Update age and README
         run: |
-          python3 << 'PYEOF'
-from datetime import date
-import re
+          YEAR=$(date +%Y)
+          MONTH=$(date +%-m)
+          DAY=$(date +%-d)
 
-birth = date(2009, 12, 24)
-today = date.today()
-age = today.year - birth.year
-if (today.month, today.day) < (birth.month, birth.day):
-    age -= 1
+          AGE=$((YEAR - 2009))
+          if [ "$MONTH" -le 11 ] || { [ "$MONTH" -eq 12 ] && [ "$DAY" -lt 24 ]; }; then
+            AGE=$((AGE - 1))
+          fi
 
-is_birthday = today.month == 12 and today.day == 24
+          echo "Age: $AGE"
 
-with open("README.md") as f:
-    content = f.read()
+          sed -i "s/16+and+shipping/${AGE}+and+shipping/g" README.md
 
-old = f"{age}+and+shipping"
-content = re.sub(r"\d+\+and\+shipping", old, content, count=1)
-
-if is_birthday:
-    line = "today%27s+my+birthday+%F0%9F%8E%82"
-    content = re.sub(
-        r'(lines=)(dev.*?;building\+stuff\+that\+works\+offline;\d+\+and\+shipping)',
-        rf'\g<1>{line};\g<2>',
-        content,
-    )
-
-with open("README.md", "w") as f:
-    f.write(content)
-
-print(f"Age: {age}, Birthday: {is_birthday}")
-PYEOF
+          if [ "$MONTH" -eq 12 ] && [ "$DAY" -eq 24 ]; then
+            sed -i "s|lines=dev|lines=today%27s+my+birthday+%F0%9F%8E%82;dev|" README.md
+          fi
 
       - name: Commit and push
         run: |
@@ -53,9 +38,8 @@ PYEOF
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
           if ! git diff --staged --quiet; then
-            AGE_VAL=$(python3 -c "from datetime import date;b=date(2009,12,24);t=date.today();a=t.year-b.year-((t.month,t.day)<(b.month,b.day));print(a)")
-            git commit -m "chore: update age to $AGE_VAL"
+            git commit -m "chore: update age"
             git push
           else
-            echo "No changes to commit"
+            echo "No changes"
           fi
