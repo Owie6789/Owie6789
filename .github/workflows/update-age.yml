@@ -2,7 +2,7 @@ name: Update Age
 on:
   schedule:
     - cron: "0 6 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -31,17 +31,20 @@ jobs:
 
           echo "Age calculated: $AGE"
 
-          IS_BIRTHDAY=0
-          [ "$CURRENT_MONTH" -eq 12 ] && [ "$CURRENT_DAY" -eq 24 ] && IS_BIRTHDAY=1
+          if [ "$CURRENT_MONTH" -eq 12 ] && [ "$CURRENT_DAY" -eq 24 ]; then
+            IS_BIRTHDAY=1
+          else
+            IS_BIRTHDAY=0
+          fi
 
           python3 << 'PYEOF'
 import re, os
 
-with open("README.md", "r") as f:
-    content = f.read()
-
 age = int(os.environ.get("AGE", "16"))
 is_birthday = os.environ.get("IS_BIRTHDAY", "0") == "1"
+
+with open("README.md") as f:
+    content = f.read()
 
 content = re.sub(
     r'(lines=dev.*?;building\+stuff\+that\+works\+offline;)\d+(\+and\+shipping)',
@@ -74,7 +77,10 @@ PYEOF
 import datetime
 b = datetime.date(2009, 12, 24)
 t = datetime.date.today()
-print(t.year - b.year - (1 if (t.month, t.day) < (b.month, b.day) else 0))
+age = t.year - b.year
+if (t.month, t.day) < (b.month, b.day):
+    age -= 1
+print(age)
 ")
           git diff --staged --quiet || git commit -m "chore: update age to $AGE_VAL"
           git push
