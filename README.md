@@ -78,7 +78,7 @@
 
 <br>
 
-<img src="./icons/trophy.svg" width="18" height="18" align="left" /> **achievements**
+<img src="./icons/trophy.svg" width="18" height="18" align="left" /> **metrics**
 
 ![Metrics](https://raw.githubusercontent.com/Owie6789/Owie6789/main/github-metrics.svg)
 
