@@ -12,5 +12,36 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Update age
-        run: echo "placeholder"
+
+      - name: Update README with correct age
+        run: |
+          BIRTH_YEAR=2009
+          BIRTH_MONTH=12
+          BIRTH_DAY=24
+
+          YEAR=$(date +%Y)
+          MONTH=$(date +%-m)
+          DAY=$(date +%-d)
+
+          if [ "$MONTH" -gt "$BIRTH_MONTH" ] || { [ "$MONTH" -eq "$BIRTH_MONTH" ] && [ "$DAY" -ge "$BIRTH_DAY" ]; }; then
+            AGE=$((YEAR - BIRTH_YEAR))
+          else
+            AGE=$((YEAR - BIRTH_YEAR - 1))
+          fi
+
+          echo "Age: $AGE"
+
+          sed -i "s/[0-9]\\{1,3\\}\\+and\\+shipping/${AGE}+and+shipping/g" README.md
+
+          if [ "$MONTH" -eq 12 ] && [ "$DAY" -eq 24 ]; then
+            echo "Happy birthday! Adding easter egg..."
+            sed -i "s|lines=dev|lines=today%27s+my+birthday+%F0%9F%8E%82;dev|" README.md
+          fi
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update age"
+          git push
