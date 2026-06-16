@@ -14,6 +14,3 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_limit: 8
