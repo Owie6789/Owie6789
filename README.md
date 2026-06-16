@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=owie6789&label=Profile%20views&color=E8A87C&style=flat" alt="nuel" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=owie6789&label=views&color=E8A87C&style=flat" alt="nuel" /> </p>
 
 ---
 
@@ -21,7 +21,7 @@
 <img src="./icons/code.svg" width="18" height="18" align="left" /> **arsenal**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,python,nodejs,docker,git,figma,postgres&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,python,nodejs,docker,git,figma,&perline=6&theme=light" />
 </p>
 
 <p align="center">
@@ -64,9 +64,7 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Owie6789&layout=compact&theme=transparent&title_color=E8A87C&text_color=EDE6D6&hide_border=true&border_radius=8" width="420" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Owie6789&theme=onedark&column=4&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
-</p>
+
 
 <br>
 
