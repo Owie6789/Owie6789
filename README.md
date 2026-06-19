@@ -21,7 +21,7 @@
 <img src="./icons/code.svg" width="18" height="18" align="left" /> **arsenal**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,python,nodejs,docker,git,figma,&perline=6&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,python,nodejs,docker,git,figma,&perline=6&theme=dark" />
 </p>
 
 <p align="center">
