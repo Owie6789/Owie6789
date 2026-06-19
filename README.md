@@ -52,9 +52,7 @@
 <img src="./icons/chart-bar.svg" width="18" height="18" align="left" /> **stats**
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Owie6789&show_icons=true&theme=transparent&title_color=E8A87C&text_color=EDE6D6&icon_color=E76F51&hide_border=true&border_radius=8&count_private=true" width="420" />
-  </a>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Owie6789&theme=dark&hide_border=true&border_radius=8&background=1C1917&ring=E8A87C&fire=F4A261&currStreakNum=E8A87C&sideNums=EDE6D6&currStreakLabel=E8A87C&sideLabels=EDE6D6&dates=8B7D7D&stroke=3D2C2C&count_private=true" width="420" />
   </a>
