@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=owie6789&label=views&color=E8A87C&style=flat" alt="nuel" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=owie6789&label=views&color=E8A87C&style=for-the-badge&abbreviated=true" alt="nuel" /> </p>
 
 ---
 
@@ -21,17 +21,24 @@
 <img src="./icons/code.svg" width="18" height="18" align="left" /> **arsenal**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,python,nodejs,docker,git,figma,&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vue,svelte,nuxt,ts,js,tailwind,html,css,python,nodejs,mongodb,prisma,docker,git,figma&perline=16&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=2D2823" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.dot.js&logoColor=white&labelColor=2D2823" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white&labelColor=2D2823" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white&labelColor=2D2823" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=2D2823" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&labelColor=2D2823" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=2D2823" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=2D2823" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=2D2823" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B&labelColor=2D2823" />
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=2D2823" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=2D2823" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white&labelColor=2D2823" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=2D2823" />
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white&labelColor=2D2823" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=2D2823" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=2D2823" />
 </p>
@@ -40,12 +47,16 @@
 
 <img src="./icons/folder-star.svg" width="18" height="18" align="left" /> **featured**
 
-| | project | stack |
+<div align="center">
+
+| | projects | stack |
 |---|---|---|
 | <img src="./icons/music-note.svg" width="18" height="18" /> | [**Waverr**](https://github.com/Owie6789/waverr-preview) - offline-first audio engine with 10-band EQ, spectrogram | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=2D2823) ![](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white&labelColor=2D2823) |
 | <img src="./icons/paragraph.svg" width="18" height="18" /> | [**textsplit**](https://github.com/Owie6789/textsplit) - zero-dep text split tool, 5 methods, 1M+ chars | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=2D2823) ![](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=white&labelColor=2D2823) |
 | <img src="./icons/terminal.svg" width="18" height="18" /> | [**gsd-command-router**](https://github.com/Owie6789/gsd-command-router) - interactive CLI docs for 50+ GSD commands | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=2D2823) ![](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=white&labelColor=2D2823) |
 | <img src="./icons/globe.svg" width="18" height="18" /> | [**bio**](https://github.com/Owie6789/bio) - retro-OS interactive portfolio, pixel art, virtual pet | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=2D2823) ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=2D2823) |
+
+</div>
 
 <br>
 
@@ -58,9 +69,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Owie6789&layout=compact&theme=transparent&title_color=E8A87C&text_color=EDE6D6&hide_border=true&border_radius=8" width="420" />
-</p>
+
 
 
 
@@ -68,17 +77,26 @@
 
 <img src="./icons/game-controller.svg" width="18" height="18" align="left" /> **contributions**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Owie6789/Owie6789/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Owie6789/Owie6789/output/snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Owie6789/Owie6789/output/snake.svg" />
-</picture>
+<table width="100%">
+  <tr>
+    <td align="center" style="border: 1px solid #E8A87C; border-radius: 8px; padding: 15px; background-color: #1C1917;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Owie6789/Owie6789/output/snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Owie6789/Owie6789/output/snake.svg" />
+        <img alt="contribution snake" src="https://raw.githubusercontent.com/Owie6789/Owie6789/output/snake.svg" width="100%" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <br>
-
-<img src="./icons/trophy.svg" width="18" height="18" align="left" /> **metrics**
+ㅤ
+ㅤ
+<details>
+<summary><img src="./icons/trophy.svg" width="18" height="18" align="left" /> metrics</summary>
 
 ![Metrics](https://raw.githubusercontent.com/Owie6789/Owie6789/main/github-metrics.svg)
+</details>
 
 ---
 
@@ -94,3 +112,5 @@
 <p align="center">
   <sub>icons by <a href="https://phosphoricons.com">Phosphor</a> &middot; header by <a href="https://github.com/kyechan99/capsule-render">Capsule Render</a></sub>
 </p>
+
+![](https://hit.yhype.me/github/profile?account_id=151057755)
