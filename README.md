@@ -12,6 +12,15 @@
 <img src="https://komarev.com/ghpvc/?username=owie6789&label=views&color=E8A87C&style=for-the-badge&abbreviated=true" alt="nuel" />
 </p>
 
+<br>
+
+<p align="center">
+  <i>&ldquo; I can do all this through him who gives me strength. &rdquo;</i> <br><br>
+  <code>Philippians 4:13</code>
+</p>
+
+<br>
+
 ---
 
 <img src="./icons/user-circle.svg" width="18" height="18" align="left" /> **about**
@@ -102,9 +111,10 @@
 <p align="center">
 <img src="https://img.shields.io/badge/timezone-wat-A1A1AA?style=for-the-badge&logo=clockify&logoColor=18181B&labelColor=E4E4E7" alt="timezone" />
 <img src="https://img.shields.io/badge/typing_speed-120_wpm-A1A1AA?style=for-the-badge&logo=keyboard&logoColor=18181B&labelColor=E4E4E7" alt="wpm" />
-<img src="https://img.shields.io/badge/fuel-coffee-A1A1AA?style=for-the-badge&logo=coffeescript&logoColor=18181B&labelColor=E4E4E7" alt="coffee" />
+<img src="https://img.shields.io/badge/fuel-milo-A1A1AA?style=for-the-badge&logo=coffeescript&logoColor=18181B&labelColor=E4E4E7" alt="milo" />
 </p>
 <p align="center">
+<a href="https://discord.com/channels/@me/1366875256471687323"><img src="https://img.shields.io/badge/discord-nuel-18181B?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=27272A" alt="discord" /></a>
 <a href="https://github.com/Owie6789"><img src="https://img.shields.io/badge/github-owie6789-18181B?style=for-the-badge&logo=github&logoColor=white&labelColor=27272A" alt="github" /></a>
 <a href="https://reddit.com/user/Past_Membership_1742"><img src="https://img.shields.io/badge/reddit-past__membership__1742-18181B?style=for-the-badge&logo=reddit&logoColor=ff4500&labelColor=27272A" alt="reddit" /></a>
 <a href="https://open.spotify.com/user/31snulaeymipi7wp4gqwu3dhgytq"><img src="https://img.shields.io/badge/spotify-nuel-18181B?style=for-the-badge&logo=spotify&logoColor=1db954&labelColor=27272A" alt="spotify" /></a>
