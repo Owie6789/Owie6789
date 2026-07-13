@@ -116,7 +116,7 @@
 <p align="center">
 <a href="https://discord.com/channels/@me/1366875256471687323"><img src="https://img.shields.io/badge/discord-nuel-18181B?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=27272A" alt="discord" /></a>
 <a href="https://github.com/Owie6789"><img src="https://img.shields.io/badge/github-owie6789-18181B?style=for-the-badge&logo=github&logoColor=white&labelColor=27272A" alt="github" /></a>
-<a href="https://reddit.com/user/Past_Membership_1742"><img src="https://img.shields.io/badge/reddit-past__membership__1742-18181B?style=for-the-badge&logo=reddit&logoColor=ff4500&labelColor=27272A" alt="reddit" /></a>
+<a href="https://www.reddit.com/u/nuelgoeshard"><img src="https://img.shields.io/badge/reddit-nuelgoeshard-18181B?style=for-the-badge&logo=reddit&logoColor=ff4500&labelColor=27272A" alt="reddit" /></a>
 <a href="https://open.spotify.com/user/31snulaeymipi7wp4gqwu3dhgytq"><img src="https://img.shields.io/badge/spotify-nuel-18181B?style=for-the-badge&logo=spotify&logoColor=1db954&labelColor=27272A" alt="spotify" /></a>
 <a href="https://tiktok.com/@owie.exists"><img src="https://img.shields.io/badge/tiktok-owie.exists-18181B?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=27272A" alt="tiktok" /></a>
 <a href="https://twitch.tv/nuelgoeshard"><img src="https://img.shields.io/badge/twitch-nuelgoeshard-18181B?style=for-the-badge&logo=twitch&logoColor=9146ff&labelColor=27272A" alt="twitch" /></a>
