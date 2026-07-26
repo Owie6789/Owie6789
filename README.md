@@ -114,7 +114,7 @@
 <img src="https://img.shields.io/badge/fuel-milo-A1A1AA?style=for-the-badge&logo=coffeescript&logoColor=18181B&labelColor=E4E4E7" alt="milo" />
 </p>
 <p align="center">
-<a href="https://discord.com/channels/@me/1366875256471687323"><img src="https://img.shields.io/badge/discord-nuel-18181B?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=27272A" alt="discord" /></a>
+<a href="https://discord.com/users/1366875256471687323"><img src="https://img.shields.io/badge/discord-nuel-18181B?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=27272A" alt="discord" /></a>
 <a href="https://github.com/Owie6789"><img src="https://img.shields.io/badge/github-owie6789-18181B?style=for-the-badge&logo=github&logoColor=white&labelColor=27272A" alt="github" /></a>
 <a href="https://www.reddit.com/u/nuelgoeshard"><img src="https://img.shields.io/badge/reddit-nuelgoeshard-18181B?style=for-the-badge&logo=reddit&logoColor=ff4500&labelColor=27272A" alt="reddit" /></a>
 <a href="https://open.spotify.com/user/31snulaeymipi7wp4gqwu3dhgytq"><img src="https://img.shields.io/badge/spotify-nuel-18181B?style=for-the-badge&logo=spotify&logoColor=1db954&labelColor=27272A" alt="spotify" /></a>
