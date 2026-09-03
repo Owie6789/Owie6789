@@ -47,18 +47,19 @@ I maintain *mausVoice* [**↱**](https://github.com/maus-inc/mausVoice) at maus-
 and least i forget, I ship more than you 😭✌️🥀
 
 <br>
+<br>
 
 <img src="./icons/code.svg" width="18" height="18" align="left" /> **arsenal**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,vue,svelte,nuxt,ts,js,tailwind,html,css,python,nodejs,mongodb,prisma,docker,git,figma&perline=16&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,rust,electron,tauri,ts,js,tailwind,html,css,python,nodejs,nextjs,prisma,docker,git,figma&perline=16&theme=dark" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1E293B" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.dot.js&logoColor=white&labelColor=1E293B" />
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&labelColor=1E293B" />
-<img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white&labelColor=1E293B" />
+<img src="https://img.shields.io/badge/Rust-E43717?style=for-the-badge&logo=rust&logoColor=white&labelColor=1E293B" />
+<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white&labelColor=1E293B" />
+<img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white&labelColor=1E293B" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1E293B" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1E293B" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=1E293B" />
@@ -66,13 +67,14 @@ and least i forget, I ship more than you 😭✌️🥀
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1E293B" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=1E293B" />
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1E293B" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1E293B" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=1E293B" />
+<img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=1E293B" />
+<img src="https://img.shields.io/badge/Prisma-677EEB?style=for-the-badge&logo=prisma&logoColor=white&labelColor=1E293B" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1E293B" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1E293B" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=1E293B" />
+<img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white&labelColor=1E293B" />
 </p>
 
+<br>
 <br>
 
 <img src="./icons/folder-star.svg" width="18" height="18" align="left" /> **featured**
@@ -91,6 +93,7 @@ and least i forget, I ship more than you 😭✌️🥀
 </div>
 
 <br>
+<br>
 
 <img src="./icons/chart-bar.svg" width="18" height="18" align="left" /> **stats**
 
@@ -101,6 +104,7 @@ and least i forget, I ship more than you 😭✌️🥀
 </a>
 </p>
 
+<br>
 <br>
 
 <img src="./icons/game-controller.svg" width="18" height="18" align="left" /> **contributions**
@@ -118,6 +122,7 @@ and least i forget, I ship more than you 😭✌️🥀
 </table>
 
 <br>
+<br>
 
 <details>
 <summary><img src="./icons/trophy.svg" width="18" height="18" align="left" /> metrics</summary>
@@ -130,9 +135,9 @@ and least i forget, I ship more than you 😭✌️🥀
 <summary><img src="./icons/globe.svg" width="18" height="18" align="left" /> connections</summary>
 <br>
 <p align="center">
-<img src="https://img.shields.io/badge/timezone-wat-CBD5E1?style=for-the-badge&logo=clockify&logoColor=0F172A&labelColor=1E293B" alt="timezone" />
+<img src="https://img.shields.io/badge/timezone-wat-CBD5E1?style=for-the-badge&logo=clockify&logoColor=FFFFFF&labelColor=1E293B" alt="timezone" />
 <img src="https://img.shields.io/badge/typing_speed-120_wpm-CBD5E1?style=for-the-badge&logo=keyboard&logoColor=0F172A&labelColor=1E293B" alt="wpm" />
-<img src="https://img.shields.io/badge/fuel-milo-CBD5E1?style=for-the-badge&logo=coffeescript&logoColor=0F172A&labelColor=1E293B" alt="milo" />
+<img src="https://img.shields.io/badge/fuel-milo-CBD5E1?style=for-the-badge&logo=coffeescript&logoColor=FFFFFF&labelColor=1E293B" alt="milo" />
 </p>
 <p align="center">
 <a href="https://discord.com/users/1366875256471687323"><img src="https://img.shields.io/badge/discord-nuel-0F172A?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=1E293B" alt="discord" /></a>
