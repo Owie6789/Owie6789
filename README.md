@@ -40,9 +40,9 @@
 > privacy-first software. offline-first architecture. clean design that actually works.
 
 
-Most of what I make starts from the same complaint, I want to use a tool and it asks for an account or an outrageous subscription before it does the one job I opened it for, so I ofc I build the version that runs off a file on disk. mausVoice can transcribe with local Whisper and make zero network calls while doing it while still (in my humble opinion) being a very worthy, free, Open-source alternative to productivity tools like WisprFlow, SuperHuman, and other Freemium and subscription gated STT tools. textsplit is a single HTML file with nothing to install while helpig me split enormous chunks of text, Ad/Bloat-free+No Install needed, and I am not planning to stop anytime soon, At 16, the sky is literally the baseline of my limits!
+Most of what I make starts from the same complaint, I want to use a tool and it asks for an account or an outrageous subscription before it does the one job I opened it for, so I ofc I build the version that solves that exact problem, stays free and open-saus while still being super well designed, runs off a file on disk. *mausVoice* [**↱**](https://github.com/maus-inc/mausVoice) can transcribe with local Whisper and make zero network calls while doing it while still (in my humble opinion) being a very worthy, free, Open-source alternative to productivity tools like WisprFlow, SuperHuman, and other Freemium and subscription gated STT tools. *textsplit* [**↱**](https://github.com/Owie6789/textsplit) is a single HTML file with nothing to install while helping me split enormous chunks of text, Ad/Bloat-free+No Install needed, and I am not planning to stop anytime soon, At 16, the sky is literally the baseline of my limits!
 
-I maintain mausVoice at maus-inc and I collaborate heavily on Nora. Great tools don't always have to be paid, and I help keep it running.
+I maintain *mausVoice* [**↱**](https://github.com/maus-inc/mausVoice) at maus-inc and I collaborate heavily on *Nora* [**↱**](https://github.com/Owie6789/Nora). Great tools don't always have to be paid, and I help keep it running.
 
 and least i forget, I ship more than you 😭✌️🥀
 
