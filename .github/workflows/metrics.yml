@@ -14,3 +14,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           base_indepth: yes
+          extras_css: "h1,h2{color:#1952a5}"
