@@ -16,7 +16,7 @@
 <!-- TYPING BIO -->
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=500&size=20&duration=3000&pause=500&color=71A2EA&center=true&vCenter=true&width=700&lines=dev+%7C+design+%7C+security;building+stuff+that+works+offline;16+and+shipping&repeat=true" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=500&size=20&duration=3000&pause=500&color=71A2EA&center=true&vCenter=true&width=700&lines=dev+%7C+design+%7C+security;building+stuff+that+works+offline;16+and+shipping;drop+a+follow;leave+a+star!;check+out+my+projects!;w+open-source!!&repeat=true" alt="Typing SVG" />
 </a>
 </p>
 
