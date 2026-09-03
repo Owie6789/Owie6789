@@ -131,7 +131,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8A87C,100:1C1917&height=140&section=footer&reversal=true&animation=fadeIn" />
 
 <p align="center">
-<a href="mailto:owieemmanuel34@proton.me"><img src="https://img.shields.io/badge/hey-owieemmanuel34@proton.me-E8A87C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D2823" /></a>
+<a href="mailto:heyowie@proton.me"><img src="https://img.shields.io/badge/helloo-heyowie@proton.me-E8A87C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D2823" /></a>
 &nbsp;
 <img src="https://img.shields.io/badge/made%20with%20%E2%99%A5%20by%20nuel-81B29A?style=for-the-badge&labelColor=2D2823" />
 </p>
