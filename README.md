@@ -16,7 +16,7 @@
 <!-- TYPING BIO -->
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=500&size=20&duration=3000&pause=500&color=71A2EA&background=0F172A&center=true&vCenter=true&width=700&lines=dev+%7C+design+%7C+security;building+stuff+that+works+offline;16+and+shipping&repeat=true" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=500&size=20&duration=3000&pause=500&color=71A2EA&center=true&vCenter=true&width=700&lines=dev+%7C+design+%7C+security;building+stuff+that+works+offline;16+and+shipping&repeat=true" alt="Typing SVG" />
 </a>
 </p>
 
@@ -39,16 +39,12 @@
 
 > privacy-first software. offline-first architecture. clean design that actually works.
 
-16, in Benin City, Nigeria, UTC+1. On GitHub since November 2023.
 
-<!-- TODO(nuel): your origin story goes here. Two sentences is enough, what you started on
-     and the first thing you built that other people actually used. Delete this comment after. -->
+Most of what I make starts from the same complaint, I want to use a tool and it asks for an account or an outrageous subscription before it does the one job I opened it for, so I ofc I build the version that runs off a file on disk. mausVoice can transcribe with local Whisper and make zero network calls while doing it while still (in my humble opinion) being a very worthy, free, Open-source alternative to productivity tools like WisprFlow, SuperHuman, and other Freemium and subscription gated STT tools. textsplit is a single HTML file with nothing to install while helpig me split enormous chunks of text, Ad/Bloat-free+No Install needed, and I am not planning to stop anytime soon, At 16, the sky is literally the baseline of my limits!
 
-Most of what I make starts from the same complaint. A tool asks for an account, a subscription, or a connection before it does the one job I opened it for. So I build the version that runs off a file on disk. textsplit is a single HTML file with nothing to install. mausVoice can transcribe with local Whisper and make zero network calls while doing it.
+I maintain mausVoice at maus-inc and I collaborate heavily on Nora. Great tools don't always have to be paid, and I help keep it running.
 
-I maintain mausVoice at maus-inc and I collaborate on Nora. Good code other people started, and I help keep it running.
-
-The parts I care about are the boring ones. Bundle size. What happens on a bad connection. Whether the shortcut still fires after an update.
+and least i forget, I ship more than you 😭✌️🥀
 
 <br>
 
