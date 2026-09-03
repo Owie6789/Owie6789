@@ -26,7 +26,11 @@ jobs:
 
           echo "Age: $AGE"
 
-          sed -i "s/16+and+shipping/${AGE}+and+shipping/g" README.md
+          # typing svg line, e.g. "16+and+shipping"
+          sed -i -E "s/[0-9]+\+and\+shipping/${AGE}+and+shipping/g" README.md
+
+          # about section line, e.g. "At 16, the sky"
+          sed -i -E "s/[0-9]+, the sky/${AGE}, the sky/" README.md
 
           if [ "$MONTH" -eq 12 ] && [ "$DAY" -eq 24 ]; then
             sed -i "s|lines=dev|lines=today%27s+my+birthday+%F0%9F%8E%82;dev|" README.md
