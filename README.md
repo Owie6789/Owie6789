@@ -57,20 +57,20 @@ and least i forget, I ship more than you 😭✌️🥀
 
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1E293B" />
-<img src="https://img.shields.io/badge/Rust-E43717?style=for-the-badge&logo=rust&logoColor=white&labelColor=1E293B" />
-<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white&labelColor=1E293B" />
-<img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white&labelColor=1E293B" />
+<img src="https://img.shields.io/badge/Rust-20232A?style=for-the-badge&logo=rust&logoColor=white&labelColor=E43717" />
+<img src="https://img.shields.io/badge/Electron-20232A?style=for-the-badge&logo=electron&logoColor=47848F&labelColor=2b2e3a" />
+<img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=24c8db&labelColor=1E293B" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1E293B" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1E293B" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=1E293B" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwindcss&logoColor=20BDBB&labelColor=1E293B" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1E293B" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1E293B" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white&labelColor=1E293B" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=1E293B" />
-<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1E293B" />
-<img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=1E293B" />
-<img src="https://img.shields.io/badge/Prisma-677EEB?style=for-the-badge&logo=prisma&logoColor=white&labelColor=1E293B" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1E293B" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1E293B" />
+<img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E&labelColor=1E293B" />
+<img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=1E293B" />
+<img src="https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=white&labelColor=677EEB" />
+<img src="https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED" />
+<img src="https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" />
 <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white&labelColor=1E293B" />
 </p>
 
@@ -83,7 +83,7 @@ and least i forget, I ship more than you 😭✌️🥀
 
 | | projects | stack |
 |---|---|---|
-| <img src="./icons/microphone.svg" width="18" height="18" /> | [**mausVoice**](https://github.com/maus-inc/mausVoice) - desktop voice dictation, Rust core, local Whisper option, AI cleanup | ![](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white&labelColor=1E293B) ![](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white&labelColor=1E293B) ![](https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1E293B) |
+| <img src="./icons/microphone.svg" width="18" height="18" /> | [**mausVoice**](https://github.com/maus-inc/mausVoice) - desktop voice dictation, Rust core, local Whisper option, AI cleanup | ![](https://img.shields.io/badge/Rust-20232A?style=for-the-badge&logo=rust&logoColor=white&labelColor=E43717) ![](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=24c8db&labelColor=1E293B) ![](https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1E293B) |
 | <img src="./icons/headphones.svg" width="18" height="18" /> | [**Nora**](https://github.com/Owie6789/Nora) - music player I collaborate on, [live demo](https://noramusic.netlify.app) | ![](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white&labelColor=1E293B) ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1E293B) ![](https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1E293B) |
 | <img src="./icons/terminal.svg" width="18" height="18" /> | [**gsd-command-router**](https://github.com/Owie6789/gsd-command-router) - interactive CLI docs for 50+ GSD commands | ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1E293B) ![](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1E293B) |
 | <img src="./icons/paragraph.svg" width="18" height="18" /> | [**textsplit**](https://github.com/Owie6789/textsplit) - zero-dep text split tool, 5 methods, 1M+ chars | ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1E293B) ![](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1E293B) |
