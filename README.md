@@ -59,7 +59,7 @@ Right now, I maintain *mausVoice* [**↱**](https://github.com/maus-inc/mausVoic
 <br>
 <br>
 
-<img src="./icons/code.svg" width="18" height="18" align="left" /> **arsenal**
+<img src="./icons/code.svg" width="18" height="18" align="left" /> **languages and stacks picked up so far**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,rust,electron,tauri,ts,js,tailwind,html,css,python,nodejs,nextjs,prisma,docker,git,figma&perline=16&theme=dark" />
