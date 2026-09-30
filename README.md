@@ -177,6 +177,4 @@ Right now, I maintain *mausVoice* [**↱**](https://github.com/maus-inc/mausVoic
 <sub>icons by <a href="https://phosphoricons.com">Phosphor</a> &middot; header by <a href="https://github.com/kyechan99/capsule-render">Capsule Render</a></sub>
 </p>
 
-<p align="center">
-<img src="https://hit.yhype.me/github/profile?account_id=151057755" alt="Profile Views" />
-</p>
+ 
