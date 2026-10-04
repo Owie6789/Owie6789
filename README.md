@@ -61,8 +61,8 @@ Right now, I maintain *mausVoice* [**↱**](https://github.com/maus-inc/mausVoic
 
 <img src="./icons/code.svg" width="18" height="18" align="left" /> **languages and stacks picked up so far**
 
----
-![icon-marquee](https://icon-marquee.giann.dev/v1/marquee?i=react,rust,electron,tauri,typescript,javascript,tailwindcss,html,css3,python,nodejs,nextjs,prisma,docker,git,figma&width=1000)
+
+![icon-marquee](https://icon-marquee.giann.dev/v1/marquee?i=react,rust,electron,tauri,typescript,javascript,tailwindcss,html,css3,python,nodejs,nextjs,prisma,docker,git,figma&width=900)
 ---
 
 
