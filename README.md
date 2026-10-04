@@ -61,9 +61,10 @@ Right now, I maintain *mausVoice* [**↱**](https://github.com/maus-inc/mausVoic
 
 <img src="./icons/code.svg" width="18" height="18" align="left" /> **languages and stacks picked up so far**
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,rust,electron,tauri,ts,js,tailwind,html,css,python,nodejs,nextjs,prisma,docker,git,figma&perline=16&theme=dark" />
-</p>
+---
+![icon-marquee](https://icon-marquee.giann.dev/v1/marquee?i=react,rust,electron,tauri,typescript,javascript,tailwindcss,html,css3,python,nodejs,nextjs,prisma,docker,git,figma&width=1000)
+---
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1E293B" />
